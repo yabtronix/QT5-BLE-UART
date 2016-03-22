@@ -1,0 +1,7 @@
+yablogFile.txt
+COM1
+115200
+8
+None
+1
+None
